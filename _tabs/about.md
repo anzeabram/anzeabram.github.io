@@ -8,7 +8,7 @@ Hi!
 ![Kourijima portrait](../assets/img/kouri_scaled.jpg){: width="250" .right .shadow}
 My name is Anže Abram (アブラム・アンジェ). I am a postdoctoral follow at [Department for Nanostractured Materials](https://nano.ijs.si/) at [Jozef Stefan Institute](https://www.ijs.si/), Slovenia  and [Politecnico di Torino](https://www.polito.it/), Italy.
 
-My research interests are biomaterials, especially bioceramics and bioresorbable materials for marine-environment applications. My expertie lies in material synthesis, surfact characterisation and electron microscopy.
+My research interests are biomaterials, especially bioceramics and bioresorbable materials for marine-environment applications. My expertise lies in material synthesis, surface characterisation and electron microscopy. I am also versed in scientific diving.
 
 I teach part-time at [Faculty of Health Sciences, University of Ljubljana](https://www.zf.uni-lj.si/en/) for the course 'Laboratory dental prosthetics'.
 
